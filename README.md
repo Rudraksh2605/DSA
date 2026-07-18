@@ -16,6 +16,7 @@ Everyday Practice
 | [1025-divisor-game](https://github.com/Rudraksh2605/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rudraksh2605/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Rudraksh2605/DSA/tree/master/1668-maximum-repeating-substring) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -47,4 +48,12 @@ Everyday Practice
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
