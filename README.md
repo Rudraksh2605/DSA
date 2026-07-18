@@ -20,11 +20,13 @@ Everyday Practice
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudraksh2605/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rudraksh2605/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rudraksh2605/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Everyday Practice
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Rudraksh2605/DSA/tree/master/1668-maximum-repeating-substring) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
