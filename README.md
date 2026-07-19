@@ -8,6 +8,7 @@ Everyday Practice
 | ------- |
 | [0097-interleaving-string](https://github.com/Rudraksh2605/DSA/tree/master/0097-interleaving-string) |
 | [1668-maximum-repeating-substring](https://github.com/Rudraksh2605/DSA/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -16,12 +17,14 @@ Everyday Practice
 | [1025-divisor-game](https://github.com/Rudraksh2605/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rudraksh2605/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Rudraksh2605/DSA/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudraksh2605/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +59,8 @@ Everyday Practice
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
