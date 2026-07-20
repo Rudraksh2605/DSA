@@ -23,6 +23,7 @@ Everyday Practice
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudraksh2605/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1260-shift-2d-grid](https://github.com/Rudraksh2605/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
@@ -63,4 +64,12 @@ Everyday Practice
 |  |
 | ------- |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Rudraksh2605/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Rudraksh2605/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
