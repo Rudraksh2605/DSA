@@ -9,6 +9,7 @@ Everyday Practice
 | [0097-interleaving-string](https://github.com/Rudraksh2605/DSA/tree/master/0097-interleaving-string) |
 | [1668-maximum-repeating-substring](https://github.com/Rudraksh2605/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Rudraksh2605/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Everyday Practice
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Rudraksh2605/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
