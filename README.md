@@ -27,6 +27,7 @@ Everyday Practice
 | ------- |
 | [0221-maximal-square](https://github.com/Rudraksh2605/DSA/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Rudraksh2605/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Rudraksh2605/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudraksh2605/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/Rudraksh2605/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -69,6 +70,7 @@ Everyday Practice
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Rudraksh2605/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
