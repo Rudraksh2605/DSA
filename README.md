@@ -37,6 +37,7 @@ Everyday Practice
 | [1260-shift-2d-grid](https://github.com/Rudraksh2605/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudraksh2605/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Everyday Practice
 | [1025-divisor-game](https://github.com/Rudraksh2605/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rudraksh2605/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudraksh2605/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -68,11 +70,13 @@ Everyday Practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudraksh2605/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rudraksh2605/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudraksh2605/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
