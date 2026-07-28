@@ -1,28 +1,23 @@
 class Solution {
-    private Map<Long, Integer> memo = new HashMap<>();
-
     public int integerReplacement(int n) {
-        return (int) getMinSteps((long) n); 
-    }
-
-    private long getMinSteps(long n) {
-        if (n == 1) {
-            return 0;
+        long num = n; 
+        int steps = 0;
+        
+        while (num != 1) {
+            if (num % 2 == 0) {
+                num /= 2;
+            } 
+            else {
+                if ((num & 2) == 0 || num == 3) {
+                    num -= 1;
+                } 
+                else {
+                    num += 1;
+                }
+            }
+            steps++;
         }
         
-        if (memo.containsKey(n)) {
-            return memo.get(n);
-        }
-
-        long steps;
-        if (n % 2 == 0) {
-            steps = 1 + getMinSteps(n / 2);
-        } 
-        else {
-            steps = 1 + Math.min(getMinSteps(n + 1), getMinSteps(n - 1));
-        }
-
-        memo.put(n, (int) steps);
         return steps;
     }
 }
