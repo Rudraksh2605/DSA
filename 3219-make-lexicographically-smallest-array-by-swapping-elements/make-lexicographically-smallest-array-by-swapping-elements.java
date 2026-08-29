@@ -17,21 +17,17 @@ class Solution {
 
         for (int i = 1; i < nums.length; i++) {
             if (Math.abs(numsSorted[i] - numsSorted[i - 1]) > limit) {
-                // new group
                 currGroup++;
             }
 
-            // assign current element to group
             numToGroup.put(numsSorted[i], currGroup);
 
-            // add element to sorted group list
             if (!groupToList.containsKey(currGroup)) {
                 groupToList.put(currGroup, new LinkedList<Integer>());
             }
             groupToList.get(currGroup).add(numsSorted[i]);
         }
 
-        // iterate through input and overwrite each element with the next element in its corresponding group
         for (int i = 0; i < nums.length; i++) {
             int num = nums[i];
             int group = numToGroup.get(num);
