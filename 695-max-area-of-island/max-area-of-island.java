@@ -9,7 +9,7 @@ class Solution {
         for(int i = 0; i < grid.length; i++){
             for(int j = 0; j < grid[0].length; j++){
                 if(grid[i][j] == 1 && !visited[i][j]){
-                    int area = bfs(grid, i, j, visited);
+                    int area = dfs(grid, i, j, visited);
                     maxarea = Math.max(maxarea, area);
                 }
             }
@@ -43,6 +43,20 @@ class Solution {
             } 
         }
 
+        return area;
+    }
+
+    private int dfs(int[][] grid, int nr, int nc, boolean[][] visited){
+        if(!isValid(grid, nr, nc)) return 0;
+        if(grid[nr][nc] == 0) return 0;
+        if(visited[nr][nc]) return 0;
+        visited[nr][nc] = true;
+        int area = 1;
+        for (int[] direction : dir) { 
+            int newRow = nr + direction[0]; 
+            int newCol = nc + direction[1]; 
+            area += dfs(grid, newRow, newCol, visited);
+        }
         return area;
     }
 
