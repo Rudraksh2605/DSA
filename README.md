@@ -26,6 +26,7 @@ Everyday Practice
 | [1137-n-th-tribonacci-number](https://github.com/Rudraksh2605/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Rudraksh2605/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rudraksh2605/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rudraksh2605/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ Everyday Practice
 | [1260-shift-2d-grid](https://github.com/Rudraksh2605/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rudraksh2605/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudraksh2605/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -123,4 +125,5 @@ Everyday Practice
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Rudraksh2605/DSA/tree/master/0368-largest-divisible-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rudraksh2605/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
