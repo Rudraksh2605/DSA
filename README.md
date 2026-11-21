@@ -9,6 +9,7 @@ Everyday Practice
 | [0097-interleaving-string](https://github.com/Rudraksh2605/DSA/tree/master/0097-interleaving-string) |
 | [1668-maximum-repeating-substring](https://github.com/Rudraksh2605/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Rudraksh2605/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rudraksh2605/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ Everyday Practice
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudraksh2605/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rudraksh2605/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Rudraksh2605/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudraksh2605/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -101,6 +103,7 @@ Everyday Practice
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Rudraksh2605/DSA/tree/master/0264-ugly-number-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Rudraksh2605/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,10 +116,12 @@ Everyday Practice
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Rudraksh2605/DSA/tree/master/0337-house-robber-iii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Rudraksh2605/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Rudraksh2605/DSA/tree/master/0337-house-robber-iii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Rudraksh2605/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
