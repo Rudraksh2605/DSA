@@ -44,6 +44,7 @@ Everyday Practice
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rudraksh2605/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Rudraksh2605/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudraksh2605/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Rudraksh2605/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Everyday Practice
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Rudraksh2605/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rudraksh2605/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Rudraksh2605/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Everyday Practice
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Rudraksh2605/DSA/tree/master/0264-ugly-number-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Rudraksh2605/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,4 +134,5 @@ Everyday Practice
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Rudraksh2605/DSA/tree/master/0368-largest-divisible-subset) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rudraksh2605/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Rudraksh2605/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
